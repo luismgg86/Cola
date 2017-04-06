@@ -1,0 +1,1 @@
+/home/luis/Documentos/Cola/build/CMakeFiles/Cola.dir
